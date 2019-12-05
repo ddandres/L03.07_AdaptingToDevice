@@ -1,0 +1,16 @@
+<!--
+  ~ Copyright (c) 2019. David de Andrés and Juan Carlos Ruiz, DISCA - UPV, Development of apps for mobile devices.
+  -->
+
+<resources>
+    <string name="app_name" translatable="false">L03.07_AdaptingToDevice</string>
+    <!-- Strings used in MainActivity -->
+    <string name="selected_language">Selected language in the device: </string>
+    <string name="flag_selected_language">Flag of the selected language in the device</string>
+    <string name="first">First</string>
+    <string name="second">Second</string>
+    <string name="third">Third</string>
+    <string name="fourth">Fourth</string>
+    <string name="fifth">Fifth</string>
+    <string name="sixth">Sixth</string>
+</resources>

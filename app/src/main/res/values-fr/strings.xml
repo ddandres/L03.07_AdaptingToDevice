@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2019. David de Andrés and Juan Carlos Ruiz, DISCA - UPV, Development of apps for mobile devices.
+  -->
+
+<resources>
+    <!-- Strings used in MainActivity: French version -->
+    <string name="flag_selected_language">Drapeau de la langue sélectionnée dans l\'appareil</string>
+    <string name="selected_language">Langue sélectionnée dans l\'appareil:</string>
+    <string name="first">Première</string>
+    <string name="second">Second</string>
+    <string name="third">Troisième</string>
+    <string name="fourth">Quatrième</string>
+    <string name="fifth">Cinquième</string>
+    <string name="sixth">Sixième</string>
+</resources>
